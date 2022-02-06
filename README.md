@@ -14,7 +14,7 @@ The goal is to analyze how two variables affect campaign outcomes to help Louise
 
 In this part of the analysis, I organized the number of successful, failed, and canceled theater campaigns outcomes by the month that they were launched. I created a line chart from this information to show the trends month by month.
 
-![chart 1](/Users/jaz/Desktop/module_1_kickstarter/resources/Theater_Outcomes_vs_Launch.png)
+![chart 1](/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
