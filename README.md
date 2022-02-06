@@ -21,7 +21,7 @@ In this part of the analysis, I organized the number of successful, failed, and 
 
 For this part of the analysis, I added the number of successful, failed, and canceled play campaigns to produce the total numbers for each goal range. I then calculated the percentage of each outcome organized by goal range in this line chart.
 
-![chart 2](/Users/jaz/Desktop/module_1_kickstarter/resources/Outcomes_vs_Goals.png)
+![chart 2](/resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
